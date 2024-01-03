@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>HotelPJT</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.springframework.ide.eclipse.core.springbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.jsdt.core.javascriptValidator</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.springframework.ide.eclipse.core.springnature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/resources/css</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/css/style_JaeHun.css</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/css/style_JaeHun.css</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/1.webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/1.webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/2.webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/2.webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/3.webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/3.webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/4.webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/4.webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/5.webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/5.webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (1).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(1).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (1).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(1).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (10).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(10).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (10).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(10).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (11).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(11).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (11).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(11).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (12).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(12).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (12).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(12).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (13).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(13).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (13).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(13).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (14).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(14).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (15).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(15).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (16).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(16).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (16).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(16).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (17).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(17).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (18).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(18).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (19).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(19).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (2).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(2).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (2).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(2).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (3).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(3).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (3).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(3).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (4).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(4).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (4).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(4).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (5).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(5).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (5).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(5).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (6).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(6).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (6).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(6).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (7).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(7).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (7).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(7).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (8).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(8).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (8).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(8).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (9).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(9).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach (9).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/beach/beach%20(9).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/beach.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/beach.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/dockdo.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/dockdo.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/filter.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/filter.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (1).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(1).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (10).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(10).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (10).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(10).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (11).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(11).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (11).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(11).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (12).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(12).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (13).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(13).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (14).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(14).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (15).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(15).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (16).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(16).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (17).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(17).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (18).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(18).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (19).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(19).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (2).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(2).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (2).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(2).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (20).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(20).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (21).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(21).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (3).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(3).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (3).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(3).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (4).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(4).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (4).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(4).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (5).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(5).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (5).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(5).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (6).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(6).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (6).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(6).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (7).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(7).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (7).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(7).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (8).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(8).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (8).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(8).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (9).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(9).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/kan (9).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/kan/kan%20(9).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (1).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(1).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (1).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(1).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (10).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(10).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (11).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(11).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (12).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(12).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (13).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(13).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (14).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(14).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (15).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(15).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (16).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(16).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (17).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(17).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (18).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(18).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (19).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(19).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (2).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(2).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (2).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(2).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (20).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(20).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (21).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(21).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (22).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(22).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (23).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(23).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (24).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(24).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (3).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(3).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (3).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(3).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (4).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(4).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (4).webp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(4).webp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (5).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(5).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (6).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(6).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (7).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(7).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (8).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(8).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool (9).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/pool/pool%20(9).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/pool.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/pool.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/redglass.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/redglass.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/ryokan.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/ryokan.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (1).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(1).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (10).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(10).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (11).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(11).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (12).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(12).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (13).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(13).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (14).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(14).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (15).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(15).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (16).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(16).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (17).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(17).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (18).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(18).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (19).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(19).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (2).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(2).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (2).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(2).png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (20).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(20).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (21).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(21).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (22).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(22).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (3).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(3).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (4).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(4).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (5).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(5).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (6).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(6).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (7).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(7).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (8).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(8).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/sima (9).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/sima/sima%20(9).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (1).jpeg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(1).jpeg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (1).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(1).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (10).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(10).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (11).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(11).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (12).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(12).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (13).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(13).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (14).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(14).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (15).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(15).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (16).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(16).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (17).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(17).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (18).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(18).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (19).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(19).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (2).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(2).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (20).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(20).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (21).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(21).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (22).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(22).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (23).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(23).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (24).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(24).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (3).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(3).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (4).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(4).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (5).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(5).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (6).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(6).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (7).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(7).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (8).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(8).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow (9).jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/image/snow/snow%20(9).jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/img/snow.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/HotelPJT/src/main/webapp/resources/img/snow.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/anjaehun/Desktop/spaceF/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2256166667.index
+3526463967.index
+3758058227.index
+3198973840.index
+3846320460.index
+1754746523.index
+1647026731.index

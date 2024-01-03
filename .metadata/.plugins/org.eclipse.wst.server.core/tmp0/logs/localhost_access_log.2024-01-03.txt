@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [03/Jan/2024:22:45:14 +0900] "GET /hotel/hotelPage?name=%E6%B5%B7%E3%81%AE%E4%B8%AD%E9%81%93 HTTP/1.1" 200 4438
+0:0:0:0:0:0:0:1 - - [03/Jan/2024:22:45:14 +0900] "GET /hotel/style.css HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [03/Jan/2024:22:45:14 +0900] "GET /hotel/resources/img/pool%20(4).jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Jan/2024:22:45:14 +0900] "GET /hotel/resources/img/pool%20(5).jpg HTTP/1.1" 200 314509
+0:0:0:0:0:0:0:1 - - [03/Jan/2024:22:45:14 +0900] "GET /hotel/resources/img/pool%20(6).jpg HTTP/1.1" 200 66091
